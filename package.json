@@ -1,0 +1,16 @@
+{
+  "name": "node_js_tasks",
+  "version": "1.0.0",
+  "description": "Node JS tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Satenik Matevosyan",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.5.9",
+    "chalk": "^4.1.2",
+    "line-reader": "^0.4.0"
+  }
+}
